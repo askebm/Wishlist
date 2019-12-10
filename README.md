@@ -10,6 +10,7 @@
 - Firkantet pizza sten med aluminiums plade (40x30cm)
 
 ## IT
+- 2m display port kabel
 - Raspberry PI 4
 - Xbox one trådløs controller v2 (Bluetooth)
 - Steam controller
