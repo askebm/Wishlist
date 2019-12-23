@@ -1,27 +1,30 @@
-# Ønskeliste
 
-## Køkken
-- Sauter gryde
-- Gryde 3 og 4L
-- Wok
-- Sodastream
-- Bosch ledningsfri støvsuger
-- Røremaskine
-- Firkantet pizza sten med aluminiums plade (40x30cm)
+Ønskeliste
 
-## IT
-- 2m display port kabel
-- Raspberry PI 4
-- Xbox one trådløs controller v2 (Bluetooth)
-- Steam controller
-- Digitalt multimeter
+Køkken
+• Sauter gryde
+• Gryde 3 og 4L
+• Wok
+• Sodastream
+• Bosch ledningsfri støvsuger
+• Røremaskine
+• Firkantet pizza sten med aluminiums plade (40x30cm)
 
-## Velvære
-- Barbermaskine
+IT
+• 2m display port kabel
+• Raspberry PI 4
+• Xbox one trådløs controller v2 (Bluetooth)
+• Steam controller
+• Digitalt multimeter
 
-## Beklædning
-- Skiundertøj XL
-- Underbukser XL (H&M)
+Velvære
+• Barbermaskine
 
-## Fornøjelse
-- Årskort til Odense zoo
+Beklædning
+• Skiundertøj XL
+• Underbukser XL (H&M)
+
+Fornøjelse
+• Årskort til Odense zoo
+• Fog of Love (brætspil)
+
