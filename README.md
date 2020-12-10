@@ -1,30 +1,18 @@
 
-Ønskeliste
+# Ønskeliste
 
-Køkken
-• Sauter gryde
-• Gryde 3 og 4L
-• Wok
-• Sodastream
-• Bosch ledningsfri støvsuger
-• Røremaskine
-• Firkantet pizza sten med aluminiums plade (40x30cm)
+## IT
+- Baghøjtaler til soundbar(LG-SPK8)
+- ModMic, eftermonterbar mikrofon til headset
+- Sapphire Radeon RX 6800 XT Nitro+ [(link)](https://www.pricerunner.dk/pl/37-3200012817/Grafikkort/Sapphire-Radeon-RX-6800-XT-Nitro-Sammenlign-Priser)
 
-IT
-• 2m display port kabel
-• Raspberry PI 4
-• Xbox one trådløs controller v2 (Bluetooth)
-• Steam controller
-• Digitalt multimeter
+## Bøger
+- Ringenes Herre på engelsk
 
-Velvære
-• Barbermaskine
+## Camping
+- Gas Trankia
+- Transportabel gasgrill, som meget gerne må bruge camping gas.
 
-Beklædning
-• Skiundertøj XL
-• Underbukser XL (H&M)
-
-Fornøjelse
-• Årskort til Odense zoo
-• Fog of Love (brætspil)
-
+## Tøj
+- Uld frakke
+- Pyjamas sæt
