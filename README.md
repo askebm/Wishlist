@@ -5,6 +5,7 @@
 - Sapphire Radeon RX 6800 XT Nitro+ [(link)](https://www.pricerunner.dk/pl/37-3200012817/Grafikkort/Sapphire-Radeon-RX-6800-XT-Nitro-Sammenlign-Priser)
 
 ## Bøger
+- The hobit there and back again (På engelsk)
 
 ## Camping
 - Gas Trankia
