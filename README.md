@@ -13,8 +13,14 @@
 
 ## Tøj
 - Uld frakke
+- Kronstadt skjorter (XXL)
 
 ## Stand Up Padle(SUP) board tilbehør
 - Neopren handsker
 - Aztron kajak sæde til SUP
 - Dobbelt endet pagaj
+
+## Ski grej
+- Ski
+- Skistøvler
+- Skibriller
