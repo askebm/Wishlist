@@ -24,4 +24,5 @@
 - Ski
 - Skistøvler
 - skibriller
+- Skistave
 
