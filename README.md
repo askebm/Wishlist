@@ -3,6 +3,9 @@
 
 ## IT
 - Sapphire Radeon RX 6800 XT Nitro+ [(link)](https://www.pricerunner.dk/pl/37-3200012817/Grafikkort/Sapphire-Radeon-RX-6800-XT-Nitro-Sammenlign-Priser)
+- Mikrotik hAP ac^2 
+- AMD Ryzen 3900X
+- 2x8TB Western Digital Red Hard drives
 
 ## Bøger
 - The hobbit there and back again (På engelsk)
@@ -25,4 +28,5 @@
 - Skistøvler
 - skibriller
 - Skistave
+- Rygskjold
 
