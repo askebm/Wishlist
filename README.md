@@ -31,3 +31,6 @@
 - Skistave
 - Rygskjold
 
+## Køkken grej
+- Pastamaskine til Assistent/Ankarum røremaskine
+
