@@ -18,6 +18,7 @@
 - Uld frakke
 - Kronstadt skjorter (XXL)
 - Sko (str 45)
+- Smalt brunt læderbælte
 
 ## Stand Up Padle(SUP) board tilbehør
 - Neopren handsker
