@@ -18,10 +18,10 @@
 - Uld frakke
 - Kronstadt skjorter (XXL)
 - Sko (str 45)
-- Smalt brunt læderbælte
 
 ## Stand Up Padle(SUP) board tilbehør
 - Neopren handsker
+- Neopren sokker (str 45)
 - Aztron kajak sæde til SUP
 - Dobbelt endet pagaj
 
@@ -34,4 +34,6 @@
 
 ## Køkken grej
 - Pastamaskine til Assistent/Ankarum røremaskine
+- Køkkenvægt
+- Støbejernsgryde der kan gå i ovnen og indeholde en hel kylling
 
