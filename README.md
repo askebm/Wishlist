@@ -10,9 +10,6 @@
 ## Bøger
 - The hobbit there and back again (På engelsk)
 
-## Camping
-- Gas Trankia
-- Transportabel gasgrill, som meget gerne må bruge camping gas.
 
 ## Tøj
 - Uld frakke
@@ -35,5 +32,4 @@
 ## Køkken grej
 - Pastamaskine til Assistent/Ankarum røremaskine
 - Køkkenvægt
-- Støbejernsgryde der kan gå i ovnen og indeholde en hel kylling
 
