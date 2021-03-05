@@ -6,6 +6,7 @@
 - Mikrotik hAP ac^2 
 - AMD Ryzen 3900X
 - 2x8TB Western Digital Red Hard drives
+- Loddekolbe [(link)](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/?v=0446c16e2e66)
 
 ## Bøger
 - The hobbit there and back again (På engelsk)
@@ -32,4 +33,5 @@
 ## Køkken grej
 - Pastamaskine til Assistent/Ankarum røremaskine
 - Køkkenvægt
+- Skærebræt på størrelse med brade pande
 
