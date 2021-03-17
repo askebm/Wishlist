@@ -4,7 +4,7 @@
 ## IT
 - Sapphire Radeon RX 6800 XT Nitro+ [(link)](https://www.pricerunner.dk/pl/37-3200012817/Grafikkort/Sapphire-Radeon-RX-6800-XT-Nitro-Sammenlign-Priser)
 - Mikrotik hAP ac^2 
-- AMD Ryzen 3900X
+- AMD Ryzen 5600X
 - 2x8TB Western Digital Red Hard drives
 - Loddekolbe [(link)](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/?v=0446c16e2e66)
 
@@ -13,7 +13,6 @@
 
 
 ## Tøj
-- Uld frakke
 - Kronstadt skjorter (XXL)
 - Sko (str 45)
 
